@@ -1,3 +1,7 @@
 Hola mundo
 
+<<<<<<< HEAD
 Cambiamos a la rama de Master 
+=======
+Nuevo Cambio
+>>>>>>> features/new-evo
